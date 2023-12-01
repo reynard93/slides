@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "shiki-twoslash": "^3.1.2"
+  }
+}
